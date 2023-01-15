@@ -1,0 +1,22 @@
+.h{
+    background:greenyellow;
+    margin-top:20px;
+    border:1px black solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifa;
+}
+.bal{
+    background:gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.foot{
+    background:lightgrey;
+}
+body{
+    border:3px black solid;
+    background:linear-gradient(gray,lightgrey,white,greenyellow)
+}
+.input{
+    margin-top:20px;
+    font-size: larger;
+    margin-bottom:20px;
+}
